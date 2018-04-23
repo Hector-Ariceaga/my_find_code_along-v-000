@@ -6,4 +6,9 @@ def my_find(collection)
     return collection[i] if yield(collection[i])
   i += 1
   end
+<<<<<<< HEAD
+=======
+  
+
+>>>>>>> 0fe75901fa1a11b42166c07b6df054bd0a455a3c
 end
